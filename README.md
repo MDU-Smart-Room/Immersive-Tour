@@ -1,6 +1,6 @@
 # Immersive-Tour
 
-###**NOTE** :fa-exclamation-triangle:
+**NOTE**
 
 Due to the weight of the project folder, it has been difficult for us to share it on this platform. For the time being we will share a link to the project.
 
